@@ -115,7 +115,7 @@ Interactive slicers included for:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/muhammed-saheer/Social-Media-Sentiment-Analysis/blob/main/Images/Dashboard_img.png)
 
 ---
 
